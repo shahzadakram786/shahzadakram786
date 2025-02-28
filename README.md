@@ -21,8 +21,9 @@
 💻 Total commits: 500+  </br>
 <!--- Adding Tech Stack open Section -->
 
+-----------------------------------------------------------
 
 
-<h1>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahzadakram786&bg_color=000000&color=91b017&line=53820d&point=1c4354&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</h1>
+
