@@ -12,11 +12,11 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://i.gifer.com/3769.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
-🚀 Front-End Developer | Passionate about Web & Blockchain
-🔎 Exploring Web Technologies & Smart Contracts
-🔭 Building Blockchain dApps & Scalable Web Apps
-💡 Main stack: JavaScript, Next.js, React, Node.js , Express.js
-🚩 Enthusiast of Decentralized Tech & Open Source
-🎵 Vibing to Old-School & Modern Hip-Hop
-💻 Total commits: 500+ 
+🚀 Front-End Developer | Passionate about Web & Blockchain </br>
+🔎 Exploring Web Technologies & Smart Contracts </br>
+🔭 Building Blockchain dApps & Scalable Web Apps </br>
+💡 Main stack: JavaScript, Next.js, React, Node.js , Express.js </br>
+🚩 Enthusiast of Decentralized Tech & Open Source </br>
+🎵 Vibing to Old-School & Modern Hip-Hop </br>
+💻 Total commits: 500+  </br>
 <!--- Adding Tech Stack open Section -->
