@@ -11,7 +11,7 @@
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://i.gifer.com/3769.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨🏻‍💻 **About Me**<img src="https://i.gifer.com/3769.gif" min-width="300px" max-width="300px" width="350px" align="right"> </br>
 🚀 Front-End Developer | Passionate about Web & Blockchain </br>
 🔎 Exploring Web Technologies & Smart Contracts </br>
 🔭 Building Blockchain dApps & Scalable Web Apps </br>
