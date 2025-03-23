@@ -5,7 +5,7 @@
   <a href="#">Portfolios</a> -
   <a href="https://www.linkedin.com/in/shahzad-akram-250a2b25b/">LinkedIn</a> - 
   <a href="#">Twitter</a> -
-  <a href="">Website</a> -
+  <a href="">Websites</a> -
 <!--   <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> - -->
   <a href="https://www.upwork.com/freelancers/~01b0f6dea9423c63e7">Hire me.</a> 
 </p>
