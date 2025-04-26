@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/shahzadakram786/count.svg?"  />
 </div>
-
+ 
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://i.gifer.com/3769.gif" min-width="300px" max-width="300px" width="350px" align="right"> </br>
@@ -22,7 +22,7 @@
 💡 Main stack: JavaScript, Next.js, React, Node.js , Express.js </br>
 🚩 Enthusiast of Decentralized Tech & Open Source </br>
 🎵 Vibing to Old-School & Modern Hip-Hop </br>
-💻 Total commits: 1100+  </br> </br>
+💻 Total commits: 11000+  </br> </br>
 <!--- Adding Tech Stack open Section -->
 
 -----------------------------------------------------------
