@@ -22,7 +22,7 @@
 💡 Main stack: JavaScript, Next.js, React, Node.js , Express.js </br>
 🚩 Enthusiast of Decentralized Tech & Open Source </br>
 🎵 Vibing to Old-School & Modern Hip-Hop </br>
-💻 Total commits: 13+  </br> </br>
+💻 Total commits: 13k+  </br> </br>
 <!--- Adding Tech Stack open Section -->
 
 -----------------------------------------------------------
