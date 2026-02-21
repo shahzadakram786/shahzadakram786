@@ -1,4 +1,4 @@
-Lo<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/shahzad-akram-250a2b25b/">Shahzad Akram</a> </h1>
+L<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/shahzad-akram-250a2b25b/">Shahzad Akram</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
