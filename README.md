@@ -21,7 +21,7 @@
 🔭 Building Scalable Web Apps </br>
 💡 Main stack: JavaScript, Next.js, React, Node.js , Express.js </br>
 🚩 Enthusiast of Decentralized Tech & Open Source </br>
-💻 Total commits: 1844+  </br> </br>
+💻 Total commits: 1845+  </br> </br>
 <!--- Adding Tech Stack open Section -->
 
 -----------------------------------------------------------
